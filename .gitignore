@@ -5,3 +5,12 @@
 /lib/
 /share/
 /ssl/
+/sniffMyPackets/src/sniffMyPackets.egg-info/
+.idea
+/sploitego/sploitego.mtz
+build/
+dist/
+sniffMyPackets/src/sniffMyPackets.egg-info/
+src/sniffMyPackets.egg-info/
+/ThreatRecon/build/
+/ThreatRecon/dist/
