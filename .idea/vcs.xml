@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Malformity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThreatRecon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maltegopen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nwmaltego_canari" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scapy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sniffMyPackets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sniffmypacketsv2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sploitego" vcs="Git" />
+  </component>
+</project>
