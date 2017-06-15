@@ -4,3 +4,5 @@
 	url = https://github.com/shizzz477/canari11
 [submodule "scapy"]
 	url = https://github.com/shizzz477/canari11
+[submodule "Malformity"]
+	url = https://github.com/shizzz477/canari11
